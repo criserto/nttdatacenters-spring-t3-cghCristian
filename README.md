@@ -36,4 +36,6 @@ Crear los siguientes métodos CRUD con el diseño DAO mediante Hibernate:
 * Realizar una capa de Servicio
 * Consumir ese Servicio desde el main
 
+<h2 align="center">⚠️ La clase principal consume el servicio, se mostrarán logs para ver la entrada a los métodos, Systems.out para mostrar datos ⚠️</h2>
+
 
